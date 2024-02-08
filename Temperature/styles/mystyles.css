@@ -1,0 +1,13 @@
+body{ 
+    
+} 
+.results-zone{
+    background-color: rgb(135, 56, 56);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 40px;
+} 
+#Total{
+    font-size: 80px;
+} 
